@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ThanaaMandour
 - 👀 I’m interested in Business Analytics
 - 🌱 I’m currently learning Python for Data Analysis
-- 📫 How to reach me ...mandourthanaa@gmail.com
+- 📫 How to reach me: mandourthanaa@gmail.com
